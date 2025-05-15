@@ -1,3 +1,3 @@
-This Materials Lab was a class project that involved choosing a material to test, creating the experiment, testing, and providing results through a report and presentation.
+This Materials Lab was a class team project that involved selecting materials to test, creating the experiment parameters, procedure, testing, and providing results through a report and presentation.
 
-We investigated the corrosive effects of Sulfuric Acid and Saline solution against 316 stainless steel and 1018 carbon steel. Results indicated how materials selection is an important factor when considering materials used in corrosive environments.
+We investigated the corrosive effects of Sulfuric Acid and Saline solution on the hardness of 316 stainless steel and 1018 carbon steel. 316 displayed resistance to corrosion in both environments while 1018 suffered from corrosion in both, more so in sulfuric acid where the hardness significantly dropped. Results indicate how materials selection is an important factor when considering materials used in corrosive environments.
